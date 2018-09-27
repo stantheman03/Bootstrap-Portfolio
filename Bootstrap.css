@@ -18,7 +18,7 @@
     clear: both;
       }
   .navbar-brand{    
-  display: inline-block;
+  /* display: inline-block; */
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	font-weight: bold;
 	font-size: 2em;
@@ -69,3 +69,6 @@ img.picture {
   .contact label {
     display: block;
     padding-bottom: 0.5em;}
+
+
+    
